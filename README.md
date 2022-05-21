@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigGamerGary
 - 👀 I’m interested in Minecraft mods and discord bots
-- 🌱 I’m currently learning Computer Science at university
+- 🌱 I’m currently studying Computer Science at university
 - 📫 How to reach me - Gary#7064 on discord
 
 <!---
